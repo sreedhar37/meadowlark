@@ -1,0 +1,31 @@
+{
+  "name": "meadowlark",
+  "version": "0.0.0",
+  "description": "My First attempt at modern JS",
+  "main": "meadowlark.js",
+  "dependencies": {
+    "express4-handlebars": "~0.1.8",
+    "express": "~4.8.6",
+    "express3-handlebars": "~0.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sreedhar37/meadowlark.git"
+  },
+  "keywords": [
+    "js",
+    "expree",
+    "node",
+    "meadowlark"
+  ],
+  "author": "Sreedhar",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sreedhar37/meadowlark/issues"
+  },
+  "homepage": "https://github.com/sreedhar37/meadowlark"
+}
